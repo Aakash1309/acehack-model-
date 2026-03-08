@@ -2,8 +2,9 @@ pandas
 numpy
 scikit-learn
 joblib
-pymongo[srv]
+pymongo
 certifi
 streamlit
 streamlit-folium
 folium
+altair==4.2.2
