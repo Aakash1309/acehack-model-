@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "imghdr"
+version = "0.1.0"
+description = "Fallback imghdr implementation for environments missing the standard library module."
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.setuptools]
+py-modules = ["imghdr"]

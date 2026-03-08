@@ -8,3 +8,4 @@ streamlit
 streamlit-folium
 folium
 altair==4.2.2
+-e .
