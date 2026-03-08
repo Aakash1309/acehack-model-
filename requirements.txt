@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+pymongo[srv]
+certifi
+streamlit
+streamlit-folium
+folium

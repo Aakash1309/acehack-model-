@@ -1,0 +1,9 @@
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
+[client]
+# The default browser will open automatically when running locally.
+# Set to false when running in a containerized or headless environment.
+# runOnSave = false
